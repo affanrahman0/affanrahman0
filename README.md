@@ -80,7 +80,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS/C -->
 <br/>
 <br/>
 
-<a href="https://github.com/affanrahman0/github-readme-activity-graph"><img alt="Affan Rahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=affanrahman0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/affanrahman0/github-readme-activity-graph"><img alt="Affan Rahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=affanrahman0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=affanrahman0&bg_color=054804&color=030901&line=03210a&point=220c0c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=affanrahman0&row=1&no-bg=true)
 
